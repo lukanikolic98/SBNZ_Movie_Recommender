@@ -1,3 +1,3 @@
 # SBNZ_Movie_Recommender
 
-SW64-2017
+Luka Nikolić, SW64-2017
